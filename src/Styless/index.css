@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+:root {
+    --grey-text: #888888;
+}
+
+html{
+    font-size: 62.5%;
+}
+
